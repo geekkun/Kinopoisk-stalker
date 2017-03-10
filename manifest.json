@@ -1,0 +1,12 @@
+{
+  "name": "Kinopoisk stalker",
+  "description": "This extension notifies about new films rated by user",
+  "version": "0.1",
+
+  "permissions": ["notifications", "contextMenus"],
+
+  "background": {
+    "scripts": ["main.js"]},
+
+    "manifest_version": 2
+}
